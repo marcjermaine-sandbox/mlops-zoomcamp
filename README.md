@@ -1,3 +1,3 @@
-# MLOps Zoomcamp 2024
-The attempt to complete 2024's MLOps Zoomcamp
+# MLOps Zoomcamp 2025
+Assignment solutions for MLOps Zoomcamp 2025
 
